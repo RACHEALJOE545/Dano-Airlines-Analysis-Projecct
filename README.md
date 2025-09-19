@@ -117,6 +117,9 @@ These KPIs reflect both customer sentiment (satisfaction/dissatisfaction) and op
   
   - These are relative strengths for Dano Airlines.
   - Shows where the company can build competitive advantage.
+ 
+
+ ### You can interact with the dashboard [here] (https://app.powerbi.com/view?r=eyJrIjoiZWQ0NDBmZDgtODYwYS00OGUwLWFlZDUtMTMxNTNlYWQ5ZmU4IiwidCI6ImQ5OTY0Y2ExLTZkNDktNGExYi05NTdkLWM0ODMxNmU4ZWZhNSJ9)
 
 ## Conclusion: 
 
